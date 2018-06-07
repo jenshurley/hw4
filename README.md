@@ -1,13 +1,4 @@
 
-
-```python
-## Summary 
-# Three observable trends
-# age
-#fix the column names for age
-```
-
-
 ```python
 import pandas as pd
 import matplotlib.pyplot as plt
